@@ -8,9 +8,9 @@ Things you may want to cover:
 * Ruby version
 
 * System dependencies
-aaaaaaaaaaaa
-aaaaaaaaaaaa
-aaaaaaaaaaaa
+
+hello world!!!
+
 * Configuration
 
 * Database creation
